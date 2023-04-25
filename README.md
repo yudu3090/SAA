@@ -1,5 +1,5 @@
 # SAA
-Signalų apdorojimas ir analizė
+## Signalų apdorojimas ir analizė
 
 Rekurentinės diagramos dažnai naudojamos perteikti signalo nestacionarumo pobūdį bei periodiškumo laipsnį. 
 Jos gali būti naudojamos meteorologiniuose analizėse, akcijų, valiutų kursų, medicininiuose tyrimuose ir t.t. 
@@ -10,7 +10,7 @@ Visą tai mes galėjome stebėti pateiktuose diagramų pavyzdžiuose.
 
 
 
-Signal analysis and processing
+## Signal analysis and processing
 
 Recurrence plots are often used to convey the nature of signal non-stationarity and the degree of periodicity.
 They can be used in meteorological analysis, stocks, exchange rates, medical research, etc.
